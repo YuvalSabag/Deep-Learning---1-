@@ -1,7 +1,6 @@
 ## Deep Neural Network
 
-This project explores the construction, training, and evaluation of a simple neural network built "from scratch" using **PyTorch** to  
-classify images from the **MNIST dataset**.  
+This project explores the construction, training, and evaluation of a simple neural network built "from scratch" using **PyTorch** to classify images from the **MNIST dataset**.  
 It combines practical implementation with conceptual exploration, emphasizing a thorough understanding of neural network training.
 
 ### **Key Objectives**
